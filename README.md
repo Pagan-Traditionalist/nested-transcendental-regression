@@ -4,14 +4,11 @@
 
 Question-first transcendental method pack — not an IBE case study.
 
-## Two artifacts
+## Artifacts
 
-1. **Debate script** — Nested Transcendental Regression (outward-facing questions).
-2. **Construction method** — Three-AI Question-First Transcendental Layering (build/test layers before debate form).
-
-Source Notion (owner):
-- Question-First Debate Script: The Nested Transcendental Regression
-- Three-AI Question-First Transcendental Layering Method
+1. `00-transcendental-ambush-proposition-first.md` — method vs proposition-first horizontal regress
+2. `01-debate-script-nested-transcendental-regression.md` — Nested Transcendental Regression (outward-facing)
+3. `02-three-ai-transcendental-layering-method.md` — Three-AI construction / test / promotion
 
 ## Lock notes (owner)
 
@@ -22,4 +19,4 @@ Source Notion (owner):
 
 ## Status
 
-Scaffold: mirrored method docs. Full ART/ledger run TBD.
+Scaffold: mirrored method docs from Notion. Full ART/ledger run TBD.
