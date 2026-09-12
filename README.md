@@ -6,17 +6,28 @@ Question-first transcendental method pack — not an IBE case study.
 
 ## Artifacts
 
-1. `00-transcendental-ambush-proposition-first.md` — method vs proposition-first horizontal regress
-2. `01-debate-script-nested-transcendental-regression.md` — Nested Transcendental Regression (outward-facing)
-3. `02-three-ai-transcendental-layering-method.md` — Three-AI construction / test / promotion
+### Method scaffolds
+- `00-transcendental-ambush-proposition-first.md`
+- `01-debate-script-nested-transcendental-regression.md`
+- `02-three-ai-transcendental-layering-method.md`
+
+### Panel Run 1 (independent → merge)
+- `panel/00-LOCKED-BRIEF.md` — isolation rules + locks
+- `panel/01-chatgpt-independent.md` — Given Sheets (research seat)
+- `panel/02-grok-independent.md` — constructor nest
+- `panel/03-deepseek-independent.md` — necessity / boundary
+- `panel/07-COORDINATOR-MERGE.md` — **owner keep/cut** (main-line Stop at Step 2)
+
+### Pre-panel scratch
+- `draft/` — early constructor/critic notes
 
 ## Lock notes (owner)
 
-- P2 object: **sword** (“the sword is shiny”), same object under STC then as archetype — no knife→sword handoff.
-- Ideal Nested Transcendental Regression line for the sword diagnostic: **steps 1–2**; step 3 only if interlocutor identifies subject with ordinary empirical me; step 4 off this line unless topic shifted.
-- Layers 1–2: secured foundation. Layers 3–4: research frontier (do not promote for desired metaphysics).
-- *Sākṣin* = invariant subject-field, not a third object-rung after particular→archetype.
+- P2 object: **sword** (“the sword is shiny”).
+- Ideal debate line: **steps 1–2**; step 3 only if empirical-me ID; step 4 off-line unless topic shifts.
+- Step 2 = **role**, not numerical dualism.
+- *Sākṣin* = field, not third object-rung.
 
 ## Status
 
-Scaffold: mirrored method docs from Notion. Full ART/ledger run TBD.
+Panel Run 1 merged. Awaiting owner keep/cut on `panel/07-COORDINATOR-MERGE.md`.
